@@ -2,6 +2,10 @@
 
 Node is a way of running Chrome's V8 JavaScript engine outside of the browser. You'll be learning more about this later in the course.
 
+npm is the world's largest Software Registry. The registry contains over 800,000 code packages that Open-source developers use npm to share software.
+
+_Many organizations also use npm to manage private development._
+
 npm is Node's package manager. It's a repository of hundreds of thousands of useful pieces of code that you may want to integrate with your Node project.
 
 npm also has a command line tool that lets us easily install, manage and run projects.
